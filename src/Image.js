@@ -40,6 +40,7 @@ export default function Image() {
           alt=""
           loading="lazy"
           onLoad={reveal}
+          draggable={false}
         />
       </div>
     </div>
