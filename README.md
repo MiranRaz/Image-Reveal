@@ -3,4 +3,4 @@
 ## React + GSAP Image Reveal
 Animated Image Reveal with GSAP once Image is loaded. 
 
-## [Live Link](https://image-reveal-sand.vercel.app/)
+## [Live Link](https://image-reveal-six.vercel.app/)
